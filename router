@@ -1,0 +1,15 @@
+Cipher=aes-256-cbc
+Compression=11
+Digest = SHA512
+Subnet=172.28.255.1/32
+Subnet=172.29.0.0/16
+Subnet=fd67:477f:3c8f:3cae::/64
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAySzXcZDXcWDcxbi8wclzTAhDRbL1l00QjYeHtilcCvEB7sZ2/CVR
+Eb3nTo+TdDml2zDzIr5Od6TRj6lcOgSUpQHOyxPN01w8Yro8hurcDrwT7iPheIqE
+4NBfCzA8J+KpdWHUngdInde2KJcYYqIeyo/XpiOxaK4qEiUHDdwsUFYo52DVV067
+ruwuZ6dpVQxKNrZk04X777bj8aru/O8LJtZVucUqf27SJC7jVuS8pudxm6AruSUB
+iubG8Em4BnHfX67qAPvb9SL4cSh+dd/U1QVqNlj7uJ168TtSlMuOK5ab1Fj5+r1F
+bS0q4G8G53xqPT4/a0YsyWy8qgxh/YscmQIDAQAB
+-----END RSA PUBLIC KEY-----
